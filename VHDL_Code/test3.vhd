@@ -1,6 +1,11 @@
---Orlando Salas
---FPGA Test 3
---04/19/21
+-----------------------------------
+-- Engineers: Group 1 Engineering Design (Written By: Orlando Salas)
+-- Create Date: Apr. 19th 2021
+-- Design Name: test3
+-- Project Name: Design Project
+-- Target Device: 10CL016YF484C8G
+-- Tool Versions: 20.1
+-- Description: Hardware 'A Blending' Application VHDL code
 ----------------------------------------------------------
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
