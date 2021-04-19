@@ -4,7 +4,7 @@
 -- Design Name: test3
 -- Project Name: Design Project
 -- Target Device: 10CL016YF484C8G
--- Tool Versions: 20.1
+-- Tool Versions: 20.1 
 -- Description: Hardware 'A Blending' Application VHDL code
 ----------------------------------------------------------
 LIBRARY ieee;
